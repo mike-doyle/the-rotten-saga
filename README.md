@@ -1,6 +1,6 @@
 # The Rotten Saga
 This is my first ever video game project. I am excited to be able to share the process from start to finish!
-Inspired by game such as Dragon Quest, Fire Emlem, Pokémon, and other classic JRPGs, this title takes place in
+Inspired by games such as Dragon Quest, Fire Emlem, Pokémon, and other classic JRPGs, this title takes place in
 a medieval setting where the main protagonist awakens in a graveyard as an undead creature. 
 
 With no memories or clue as to how you arrived in this world, you must venture out to discover your origins. 
